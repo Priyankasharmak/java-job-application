@@ -1,0 +1,11 @@
+Name :demo
+Gender : Male
+Number :1234567890
+Mail :123@gmail.com
+Age :23
+Languages known :1
+Experience : 1 year
+Status :  Single
+Qualification :demo
+Parent name :demo
+Comments :demo
